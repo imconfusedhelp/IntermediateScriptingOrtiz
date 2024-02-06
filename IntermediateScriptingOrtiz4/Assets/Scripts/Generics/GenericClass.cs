@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class GenericClass : MonoBehaviour
 {
-    T item;
+    //T item;
 
     // Start is called before the first frame update
     void Start()
@@ -15,6 +15,6 @@ public class GenericClass : MonoBehaviour
     // Update is called once per frame
     void UpdateItem(TargetJoint2D newItem)
     {
-        item = newItem;
+        //item = newItem;
     }
 }

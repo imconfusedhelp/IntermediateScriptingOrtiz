@@ -9,7 +9,7 @@ public class SomeOtherClass1 : MonoBehaviour
     {
         SomeClass myClass = new SomeClass();
 
-        myClass.GenericMethod<int>(5);
+        //myClass.GenericMethod<int>(5);
     }
 
     // Update is called once per frame
